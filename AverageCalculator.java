@@ -9,5 +9,6 @@ public class AverageCalculator{
         int C=sc.nextInt();
         int Avg=(A+B+C)/3;
         System.out.println(Avg);
+        System.out.println(\n);
     }
 }
