@@ -6,6 +6,6 @@ public class Square{
         System.out.println("enter the side value":);
         int side =sc.nextInt();
         int sq=side *side;
-        System.out.println(sq);
+        System.out.println("area of square:"+sq);
     }
 }
