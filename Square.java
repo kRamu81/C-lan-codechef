@@ -7,5 +7,6 @@ public class Square{
         int A =sc.nextInt();
         int s=A*A;
         System.out.println(s);
+        sc.close();
     }
 }

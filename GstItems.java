@@ -14,6 +14,7 @@ public class GstItems{
         float gst = cost+0.18f;
         float totalcost=cost+gst;
         System.out.println(totalcost);
+        sc.close();
 
 
     }
